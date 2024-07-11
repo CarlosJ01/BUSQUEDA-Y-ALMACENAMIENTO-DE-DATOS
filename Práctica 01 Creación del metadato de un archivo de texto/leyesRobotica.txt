@@ -1,0 +1,4 @@
+Leyes de la Robótica de Isaac Asimov
+1) Un robot no hará daño a un ser humano ni, por inacción, permitirá que un ser humano sufra daño.
+2) Un robot debe cumplir las órdenes dadas por los seres humanos, a excepción de aquellas que entren en conflicto con la primera ley.
+3) Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la primera o con la segunda ley.

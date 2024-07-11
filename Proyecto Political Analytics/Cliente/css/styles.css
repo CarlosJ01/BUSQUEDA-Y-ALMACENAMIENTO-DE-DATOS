@@ -1,0 +1,58 @@
+body {
+  padding-top: 3rem;
+  color: #5a5a5a;
+}
+
+.chart{
+  width: 510px;
+}
+
+/* Candidatos */
+
+.Candidatos .col-lg-4 {
+  margin-top: 40px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+
+}
+.Candidatos h2 {
+  font-weight: 400;
+}
+.Candidatos .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.follows{
+  margin-bottom: 3px;
+}
+
+.partidoImg{
+  margin-top: 10px;
+}
+
+.tituloG{
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* RESPONSIVE CSS */
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+@media (max-width: 1300px ) {
+  .chart{
+    width: 710px;
+  }
+}
